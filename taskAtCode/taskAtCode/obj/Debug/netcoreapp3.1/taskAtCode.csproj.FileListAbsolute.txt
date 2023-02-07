@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\bin\Debug\netcoreapp3.1\taskAtCode.exe
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\bin\Debug\netcoreapp3.1\taskAtCode.deps.json
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\bin\Debug\netcoreapp3.1\taskAtCode.runtimeconfig.json
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\bin\Debug\netcoreapp3.1\taskAtCode.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\bin\Debug\netcoreapp3.1\taskAtCode.dll
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\bin\Debug\netcoreapp3.1\taskAtCode.pdb
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.dll
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.pdb
+C:\Users\ASUS\source\repos\taskAtCode\taskAtCode\obj\Debug\netcoreapp3.1\taskAtCode.genruntimeconfig.cache
